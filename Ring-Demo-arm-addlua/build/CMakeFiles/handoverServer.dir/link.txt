@@ -1,0 +1,1 @@
+/usr/bin/c++    -O0 -Wall -g2 -ggdb   CMakeFiles/handoverServer.dir/arm_main.cpp.o  -o handoverServer  -L/home/user/lua-5.3.4/install/lib libmylib.a -pthread -llua -ldl -Wl,-rpath,/home/user/lua-5.3.4/install/lib 

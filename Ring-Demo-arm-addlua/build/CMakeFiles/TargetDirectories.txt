@@ -1,0 +1,4 @@
+/home/user/Ring-Demo-arm-addlua/build/CMakeFiles/edit_cache.dir
+/home/user/Ring-Demo-arm-addlua/build/CMakeFiles/rebuild_cache.dir
+/home/user/Ring-Demo-arm-addlua/build/CMakeFiles/handoverServer.dir
+/home/user/Ring-Demo-arm-addlua/build/CMakeFiles/mylib.dir
